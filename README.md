@@ -35,4 +35,4 @@ Skrip bash ini akan membantu Anda mengatur seluruh environment untuk berpartisip
 git clone https://github.com/ehroy/drosera-auto-installer.git
 cd drosera-auto-installer
 chmod +x install.sh
-./install.sh
+./run.sh
